@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /*?*
+
+Sitemap: https://snac.wiki.gd/sitemap.xml

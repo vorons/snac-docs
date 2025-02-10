@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Docsify Open Publishing Starter Kit</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Docsify Open Publishing Starter Kit">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="assets/favicon/favicon.png">
+
+    <!-- Preload Default Source Sans 3 Fonts -->
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-regular.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-italic.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600italic.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700italic.woff2" as="font"
+        type="font/woff2" crossorigin="anonymous">
+
+    <!-- Core Theme -->
+    <link rel="stylesheet" href="assets/css/core.min.css" />
+    <link rel="stylesheet" href="assets/css/theme.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+    <style>
+        :root {
+
+            /* --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; DOCSIFY v5*/
+
+            --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+            --line-height: 1.4;
+            --font-size: 18px;
+            --font-weight: 400;
+
+            --content-max-width: 910px;
+
+            --heading-font-weight: 400;
+
+            --theme-color: #0374B5;
+            --link-color: #0374B5;
+            --link-color-hover: var(--link-color);
+            --link-underline-thickness: 1px;
+            --link-underline-thickness-hover: var(--link-underline-thickness);
+
+            --blockquote-color: var(--color-text);
+            --blockquote-bg: var(--color-mono-1);
+
+            /* --cover-bg: #C1E1F6; custom coverpage color */
+
+            --docsifytabs-tab-color: var(--color-mono-max);
+
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">Пожалуйста, подождите...</div>
+    <script>
+        window.$docsify = {
+            name: 'Документация snac',
+            homepage: 'home.md',
+            noEmoji: true,
+            auto2top: true,
+            maxLevel: 2,
+            subMaxLevel: 2,
+            timeUpdater: {
+                text: "---\nПоследнее изменение: {docsify-updated}",
+                formatUpdated: "{DD}-{MM}-{YYYY}",
+                whereToPlace: "bottom",
+            },
+            search: {
+                maxAge: 86400000,
+                paths: 'auto',
+                placeholder: 'Найти',
+                noData: 'Совпадений не найдено',
+                depth: 6
+            }
+        }
+    </script>
+    <script src="assets/js/docsify.min.js"></script>
+    <script src="assets/js/search.min.js"></script>
+    <script src="assets/js/time-updater.min.js"></script>
+    <!-- Additional Languages for Prismjs -->
+    <script src="assets/js/prism/prism-bash.min.js"></script>
+    <script src="assets/js/prism/prism-nginx.min.js"></script>
+    <script src="assets/js/prism/prism-apacheconf.min.js"></script>
+</body>
+
+</html>
