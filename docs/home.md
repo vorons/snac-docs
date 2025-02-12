@@ -1098,41 +1098,54 @@ location "/authorize_interaction" {
 
 ?> Ниже представлены все существующие на данный момент темы для `snac`. Если вы нашли новую тему или создали свою, сообщите об этом *(Fediverse: @voron@no.run.place / Mail: voron@no.run.place)*, чтобы добавить её здесь.  
 
+
+### Pika
+
+![Pika](https://codeberg.org/voron/snac-style/raw/branch/master/pika.png)
+
 ### Next
-![Next](https://co.iii.cl/styles/next.png)
-[Скачать](https://codeberg.org/voron/snac-style)
 
-### Paper
-![Paper](https://co.iii.cl/styles/paper.png)  
-[Скачать](https://codeberg.org/voron/snac-style)
+![Next](https://codeberg.org/voron/snac-style/raw/branch/master/next.png)
 
-### Paper Dark
-![Paper Dark](https://co.iii.cl/styles/paper-dark.png)  
-[Скачать](https://codeberg.org/voron/snac-style)
+### Paper Dark   
 
-### Modern
-![Modern](https://co.iii.cl/styles/9ec83c4769bff7ab41ef3ae6bffac9f0.png)  
-[Скачать](https://codeberg.org/voron/snac-style)
+![Paper dark](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.png)
 
-### Modern Dark
-![Modern Dark](https://co.iii.cl/styles/modern-dark.png)  
-[Скачать](https://codeberg.org/voron/snac-style)
+### Paper  
 
-### White
-![White](https://co.iii.cl/styles/white-snac.png)  
-[Скачать](https://codeberg.org/voron/snac-style)
+![Paper](https://codeberg.org/voron/snac-style/raw/branch/master/paper.png)
 
-### Ember
+### Modern Dark  
+
+![Modern Dark](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.png)
+
+### Modern  
+
+![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png)
+
+### White  
+
+![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png)
+
+### Ember (by @paul@snac.notnull.space)  
 ![Ember](https://co.iii.cl/styles/ember-theme.png)  
-[Скачать](https://codeberg.org/pswilde/snac-ember)
+[Download](https://codeberg.org/pswilde/snac-ember/src/branch/master/style.css)
 
-### Haijo7
+### Haijo7 (by @Haijo7@snac.haijo.eu )  
 ![Haijo7](https://co.iii.cl/styles/haijo7.png)  
-[Скачать](https://codeberg.org/Haijo7/snac-custom-css)
+[Download](https://codeberg.org/Haijo7/snac-custom-css/src/branch/main/style.css)
 
-### Terminal
+### Terminal (by @tetra@meowcity.club)  
 ![Terminal](https://co.iii.cl/styles/terminal.png)  
-[Скачать](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme)
+[Download](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme/src/branch/main/style.css)
+
+### Lowkey Cyber dark (by @swansinflight@snac.lowkey.party)  
+![Lowkey Cyber dark](https://codeberg.org/voron/snac-style/raw/branch/master/lowkey-cyber-dark.png)  
+[Download](https://codeberg.org/swansinflight/snac-css/src/branch/main/lowkey-cyber-dark.css)
+
+### Gruvbox (by @nigel@snac.lowkey.party)  
+![Gruvbox](https://codeberg.org/voron/snac-style/raw/branch/master/gruvbox.png)  
+[Download](https://codeberg.org/swansinflight/snac-css/src/branch/main/gruvbox.css)
 
 # Лицензия
 
