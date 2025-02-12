@@ -1128,15 +1128,15 @@ location "/authorize_interaction" {
 ![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png)
 
 ### Ember (by @paul@snac.notnull.space)  
-![Ember](https://co.iii.cl/styles/ember-theme.png)  
+![Ember](https://codeberg.org/voron/snac-style/raw/branch/master/ember.png)  
 [Download](https://codeberg.org/pswilde/snac-ember/src/branch/master/style.css)
 
 ### Haijo7 (by @Haijo7@snac.haijo.eu )  
-![Haijo7](https://co.iii.cl/styles/haijo7.png)  
+![Haijo7](https://codeberg.org/voron/snac-style/raw/branch/master/haijo7.png)  
 [Download](https://codeberg.org/Haijo7/snac-custom-css/src/branch/main/style.css)
 
 ### Terminal (by @tetra@meowcity.club)  
-![Terminal](https://co.iii.cl/styles/terminal.png)  
+![Terminal](https://codeberg.org/voron/snac-style/raw/branch/master/terminal.png)  
 [Download](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme/src/branch/main/style.css)
 
 ### Lowkey Cyber dark (by @swansinflight@snac.lowkey.party)  
