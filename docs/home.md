@@ -1101,37 +1101,37 @@ location "/authorize_interaction" {
 
 ### Pika
 
-![Pika](https://codeberg.org/voron/snac-style/raw/branch/master/pika.png ':size=80%')
+![Pika](https://codeberg.org/voron/snac-style/raw/branch/master/pika.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/pika.css)
 
 ### Next
 
-![Next](https://codeberg.org/voron/snac-style/raw/branch/master/next.png ':size=80%')
+![Next](https://codeberg.org/voron/snac-style/raw/branch/master/next.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/next.css)
 
 ### Paper Dark   
 
-![Paper dark](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.png ':size=80%')
+![Paper dark](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.css)
 
 ### Paper  
 
-![Paper](https://codeberg.org/voron/snac-style/raw/branch/master/paper.png ':size=80%')
+![Paper](https://codeberg.org/voron/snac-style/raw/branch/master/paper.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/paper.css)
 
 ### Modern Dark  
 
-![Modern Dark](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.png ':size=80%')
+![Modern Dark](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.css)
 
 ### Modern  
 
-![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png ':size=80%')
+![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/modern.css)
 
 ### White  
 
-![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png ':size=80%')
+![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/white.css)
 
 ### Ember (by @paul@snac.notnull.space)  
