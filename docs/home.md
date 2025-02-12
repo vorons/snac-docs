@@ -1101,51 +1101,63 @@ location "/authorize_interaction" {
 
 ### Pika
 
-![Pika](https://codeberg.org/voron/snac-style/raw/branch/master/pika.png)
+![Pika](https://codeberg.org/voron/snac-style/raw/branch/master/pika.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/pika.css)
 
 ### Next
 
-![Next](https://codeberg.org/voron/snac-style/raw/branch/master/next.png)
+![Next](https://codeberg.org/voron/snac-style/raw/branch/master/next.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/next.css)
 
 ### Paper Dark   
 
-![Paper dark](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.png)
+![Paper dark](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/paper-dark.css)
 
 ### Paper  
 
-![Paper](https://codeberg.org/voron/snac-style/raw/branch/master/paper.png)
+![Paper](https://codeberg.org/voron/snac-style/raw/branch/master/paper.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/paper.css)
 
 ### Modern Dark  
 
-![Modern Dark](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.png)
+![Modern Dark](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/modern-dark.css)
 
 ### Modern  
 
-![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png)
+![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/modern.css)
 
 ### White  
 
-![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png)
+![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png ':size=80%')
+[Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/white.css)
 
 ### Ember (by @paul@snac.notnull.space)  
-![Ember](https://codeberg.org/voron/snac-style/raw/branch/master/ember.png)  
-[Download](https://codeberg.org/pswilde/snac-ember/src/branch/master/style.css)
 
-### Haijo7 (by @Haijo7@snac.haijo.eu )  
-![Haijo7](https://codeberg.org/voron/snac-style/raw/branch/master/haijo7.png)  
-[Download](https://codeberg.org/Haijo7/snac-custom-css/src/branch/main/style.css)
+![Ember](https://codeberg.org/voron/snac-style/raw/branch/master/ember.png ':size=80%')  
+[Скачать](https://codeberg.org/pswilde/snac-ember/src/branch/master/style.css)
+
+### Haijo7 (by @Haijo7@snac.haijo.eu)  
+
+![Haijo7](https://codeberg.org/voron/snac-style/raw/branch/master/haijo7.png ':size=80%')  
+[Скачать](https://codeberg.org/Haijo7/snac-custom-css/src/branch/main/style.css)
 
 ### Terminal (by @tetra@meowcity.club)  
-![Terminal](https://codeberg.org/voron/snac-style/raw/branch/master/terminal.png)  
-[Download](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme/src/branch/main/style.css)
+
+![Terminal](https://codeberg.org/voron/snac-style/raw/branch/master/terminal.png ':size=80%')  
+[Скачать](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme/src/branch/main/style.css)
 
 ### Lowkey Cyber dark (by @swansinflight@snac.lowkey.party)  
-![Lowkey Cyber dark](https://codeberg.org/voron/snac-style/raw/branch/master/lowkey-cyber-dark.png)  
-[Download](https://codeberg.org/swansinflight/snac-css/src/branch/main/lowkey-cyber-dark.css)
+
+![Lowkey Cyber dark](https://codeberg.org/voron/snac-style/raw/branch/master/lowkey-cyber-dark.png ':size=80%')  
+[Скачать](https://codeberg.org/swansinflight/snac-css/src/branch/main/lowkey-cyber-dark.css)
 
 ### Gruvbox (by @nigel@snac.lowkey.party)  
-![Gruvbox](https://codeberg.org/voron/snac-style/raw/branch/master/gruvbox.png)  
-[Download](https://codeberg.org/swansinflight/snac-css/src/branch/main/gruvbox.css)
+
+![Gruvbox](https://codeberg.org/voron/snac-style/raw/branch/master/gruvbox.png ':size=80%')  
+[Скачать](https://codeberg.org/swansinflight/snac-css/src/branch/main/gruvbox.css)
 
 # Лицензия
 
