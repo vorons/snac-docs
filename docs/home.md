@@ -27,7 +27,7 @@
 
 ## Сборка и установка
 
-Эта программа написана на легко переносимом языке C. Единственными внешними зависимостями являются "openssl" и "curl".
+Эта программа написана на легко переносимом языке C.  Она использует расширение GNU `__attribute__((__cleanup__))`, которое поддерживается как минимум компиляторами C `gcc`, `clang` и `tcc`. Единственными внешними зависимостями являются `openssl` и `curl`.
 
 В Debian/Ubuntu эти требования можно удовлетворить, выполнив:
 
@@ -1195,7 +1195,9 @@ location "/authorize_interaction" {
 
 grunfink [@grunfink@comam.es](https://comam.es/snac/grunfink)
 
-Купите grunfink'у кофе: https://ko-fi.com/grunfink
+Купите grunfink'у кофе: https://ko-fi.com/grunfink/
+
+Сделайте пожертвование через LiberaPay: https://liberapay.com/grunfink/
 
 # Баги
 
