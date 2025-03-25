@@ -1,99 +1,138 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Документация snac</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="description" content="Документация snac" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="assets/favicon/favicon.png" />
 
-<head>
-    <meta charset="UTF-8">
-    <title>Документация snac</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="Документация snac">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="assets/favicon/favicon.png">
+        <!-- Preload Default Source Sans 3 Fonts -->
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-regular.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-italic.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600italic.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="preload"
+            href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700italic.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin="anonymous"
+        />
 
-    <!-- Preload Default Source Sans 3 Fonts -->
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-regular.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-italic.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-600italic.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="assets/fonts/source-sans-3-v15-latin/source-sans-3-v15-latin-700italic.woff2" as="font"
-        type="font/woff2" crossorigin="anonymous">
+        <!-- Core Theme -->
+        <link rel="stylesheet" href="assets/css/core.min.css" />
+        <link rel="stylesheet" href="assets/css/theme.css" />
+        <!-- <link rel="stylesheet" href="assets/css/custom.css"> -->
 
-    <!-- Core Theme -->
-    <link rel="stylesheet" href="assets/css/core.min.css" />
-    <link rel="stylesheet" href="assets/css/theme.css">
-    <!-- <link rel="stylesheet" href="assets/css/custom.css"> -->
-
-    <style>
-        :root {
-
-            /* --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; DOCSIFY v5*/
-
-            --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
-            --line-height: 1.4;
-            --font-size: 18px;
-            --font-weight: 400;
-
-            --content-max-width: 910px;
-
-            --heading-font-weight: 400;
-
-            --theme-color: #0374B5;
-            --link-color: #0374B5;
-            --link-color-hover: var(--link-color);
-            --link-underline-thickness: auto;
-            --link-underline-thickness-hover: var(--link-underline-thickness);
-
-            --blockquote-color: var(--color-text);
-            --blockquote-bg: var(--color-mono-1);
-
-            /* --cover-bg: #C1E1F6; custom coverpage color */
-
-            --docsifytabs-tab-color: var(--color-mono-max);
-
-        }
-    </style>
-</head>
-
-<body>
-    <div id="app">Пожалуйста, подождите...</div>
-    <script>
-        window.$docsify = {
-            name: 'Документация snac',
-            // logo: 'assets/snac.svg',
-            repo: 'https://github.com/vorons/snac-docs',
-            homepage: 'home.md',
-            noEmoji: true,
-            auto2top: true,
-            maxLevel: 2,
-            subMaxLevel: 2,
-            routerMode: 'history',
-            timeUpdater: {
-                text: "---\nПоследнее изменение: {docsify-updated}",
-                formatUpdated: "{DD}-{MM}-{YYYY}",
-                whereToPlace: "bottom",
-            },
-            search: {
-                maxAge: 86400000,
-                paths: 'auto',
-                placeholder: 'Найти',
-                noData: 'Совпадений не найдено',
-                depth: 6,
-                insertAfter: '.app-name'
+        <style>
+            :root {
+                /* --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; DOCSIFY v5*/
+                --font-family:
+                    "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+                --line-height: 1.4;
+                --font-size: 18px;
+                --font-weight: 400;
+                --content-max-width: 910px;
+                --heading-font-weight: 400;
+                --theme-color: #0374b5;
+                --link-color: #0374b5;
+                --link-color-hover: var(--link-color);
+                --link-underline-thickness: auto;
+                --link-underline-thickness-hover: var(
+                    --link-underline-thickness
+                );
+                --blockquote-color: var(--color-text);
+                --blockquote-bg: var(--color-mono-1);
+                /* --cover-bg: #C1E1F6; custom coverpage color */
+                --docsifytabs-tab-color: var(--color-mono-max);
+                /* dark-switcher button */
+                --dark-base-background: #222;
+                --dark-base-color: #bbc0c4;
+                --dark-theme-color: var(--theme-color, #42b983);
+                --dark-code-color: var(--dark-color);
+                --dark-heading-color: var(--dark-theme-color);
+                --dark-cover-background: #000000a8;
+                --dark-code-background: #303030;
+                --dark-tip-background: #2c0000;
+                --dark-warn-background: #005842;
+                --dark-icon-size: 25px;
+                --dark-icon-transition: 0.1s ease-in-out 0.1s;
+                --dark-moon-color: #000000;
+                --dark-sun-color: #ffffff;
+                --dark-moon-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 16 16'%3E%3Cpath fill='currentColor' d='M9.598 1.591a.749.749 0 0 1 .785-.175 7.001 7.001 0 1 1-8.967 8.967.75.75 0 0 1 .961-.96 5.5 5.5 0 0 0 7.046-7.046.75.75 0 0 1 .175-.786m1.616 1.945a7 7 0 0 1-7.678 7.678 5.499 5.499 0 1 0 7.678-7.678'/%3E%3C/svg%3E");
+                --dark-sun-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 16 16'%3E%3Cpath fill='currentColor' d='M8 12a4 4 0 1 1 0-8a4 4 0 0 1 0 8m0-1.5a2.5 2.5 0 1 0 0-5a2.5 2.5 0 0 0 0 5m5.657-8.157a.75.75 0 0 1 0 1.061l-1.061 1.06a.749.749 0 0 1-1.275-.326a.749.749 0 0 1 .215-.734l1.06-1.06a.75.75 0 0 1 1.06 0Zm-9.193 9.193a.75.75 0 0 1 0 1.06l-1.06 1.061a.75.75 0 1 1-1.061-1.06l1.06-1.061a.75.75 0 0 1 1.061 0M8 0a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0V.75A.75.75 0 0 1 8 0M3 8a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h1.5A.75.75 0 0 1 3 8m13 0a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1 0-1.5h1.5A.75.75 0 0 1 16 8m-8 5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0v-1.5A.75.75 0 0 1 8 13m3.536-1.464a.75.75 0 0 1 1.06 0l1.061 1.06a.75.75 0 0 1-1.06 1.061l-1.061-1.06a.75.75 0 0 1 0-1.061M2.343 2.343a.75.75 0 0 1 1.061 0l1.06 1.061a.751.751 0 0 1-.018 1.042a.751.751 0 0 1-1.042.018l-1.06-1.06a.75.75 0 0 1 0-1.06Z'/%3E%3C/svg%3E");
             }
-        }
-    </script>
-    <script src="assets/js/docsify.min.js"></script>
-    <script src="assets/js/search.min.js"></script>
-    <script src="assets/js/time-updater.min.js"></script>
-    <!-- Additional Languages for Prismjs -->
-    <script src="assets/js/prism/prism-bash.min.js"></script>
-    <script src="assets/js/prism/prism-nginx.min.js"></script>
-    <script src="assets/js/prism/prism-apacheconf.min.js"></script>
-</body>
+        </style>
+    </head>
 
+    <body>
+        <div id="app">Пожалуйста, подождите...</div>
+        <script>
+            window.$docsify = {
+                name: "Документация snac",
+                // logo: 'assets/snac.svg',
+                repo: "https://github.com/vorons/snac-docs",
+                homepage: "home.md",
+                noEmoji: true,
+                auto2top: true,
+                maxLevel: 2,
+                subMaxLevel: 2,
+                routerMode: "history",
+                timeUpdater: {
+                    text: "---\nПоследнее изменение: {docsify-updated}",
+                    formatUpdated: "{DD}-{MM}-{YYYY}",
+                    whereToPlace: "bottom",
+                },
+                search: {
+                    maxAge: 86400000,
+                    paths: "auto",
+                    placeholder: "Найти",
+                    noData: "Совпадений не найдено",
+                    depth: 6,
+                    insertAfter: ".app-name",
+                },
+            };
+        </script>
+        <script src="assets/js/docsify.min.js"></script>
+        <script src="assets/js/search.min.js"></script>
+        <script src="assets/js/time-updater.min.js"></script>
+        <script src="assets/js/docsify-dark-switcher.min.js.js"></script>
+        <!-- Additional Languages for Prismjs -->
+        <script src="assets/js/prism/prism-bash.min.js"></script>
+        <script src="assets/js/prism/prism-nginx.min.js"></script>
+        <script src="assets/js/prism/prism-apacheconf.min.js"></script>
+    </body>
 </html>
