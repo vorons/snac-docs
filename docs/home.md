@@ -1168,7 +1168,7 @@ location "/authorize_interaction" {
 
 ### Modern  
 
-![Screenshot](https://codeberg.org/voron/snac-style/raw/commit/b66e521aaf330026452f26bd412ecb11b1f9a55a/9ec83c4769bff7ab41ef3ae6bffac9f0.png ':size=80%')  
+![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/9ec83c4769bff7ab41ef3ae6bffac9f0.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/modern.css)
 
 ### White  
