@@ -1176,27 +1176,27 @@ location "/authorize_interaction" {
 ![Screenshot](https://codeberg.org/voron/snac-style/raw/branch/master/white-snac.png ':size=80%')  
 [Скачать](https://codeberg.org/voron/snac-style/raw/branch/master/white.css)
 
-### Ember (by @paul@snac.notnull.space)  
+### Ember (by `@paul@snac.notnull.space`)  
 
 ![Ember](https://codeberg.org/voron/snac-style/raw/branch/master/ember.png ':size=80%')  
 [Скачать](https://codeberg.org/pswilde/snac-ember/src/branch/master/style.css)
 
-### Haijo7 (by @Haijo7@snac.haijo.eu)  
+### Haijo7 (by `@Haijo7@snac.haijo.eu`)  
 
 ![Haijo7](https://codeberg.org/voron/snac-style/raw/branch/master/haijo7.png ':size=80%')  
 [Скачать](https://codeberg.org/Haijo7/snac-custom-css/src/branch/main/style.css)
 
-### Terminal (by @tetra@meowcity.club)  
+### Terminal (by `@tetra@meowcity.club`)  
 
 ![Terminal](https://codeberg.org/voron/snac-style/raw/branch/master/terminal.png ':size=80%')  
 [Скачать](https://codeberg.org/ERROR404NULLNOTFOUND/snac-terminal-theme/src/branch/main/style.css)
 
-### Lowkey Cyber dark (by @swansinflight@snac.lowkey.party)  
+### Lowkey Cyber dark (by `@swansinflight@snac.lowkey.party`)  
 
 ![Lowkey Cyber dark](https://codeberg.org/voron/snac-style/raw/branch/master/lowkey-cyber-dark.png ':size=80%')  
 [Скачать](https://codeberg.org/swansinflight/snac-css/src/branch/main/lowkey-cyber-dark.css)
 
-### Gruvbox (by @nigel@snac.lowkey.party)  
+### Gruvbox (by `@nigel@snac.lowkey.party`)  
 
 ![Gruvbox](https://codeberg.org/voron/snac-style/raw/branch/master/gruvbox.png ':size=80%')  
 [Скачать](https://codeberg.org/swansinflight/snac-css/src/branch/main/gruvbox.css)
