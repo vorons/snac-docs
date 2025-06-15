@@ -359,10 +359,10 @@ URL-адрес изображения, которое будет использ�
 - **list_members** *basedir* [uid] [name]  
 Выводит список акторов в указанном списке.
 
-- **create_list** *basedir* [uid] [name]  
+- **list_create** *basedir* [uid] [name]  
 Создаёт новый список.
 
-- **delete_list** *basedir* [uid] [name]  
+- **list_remove** *basedir* [uid] [name]  
 Удаляет существующий список.
 
 - **list_add** *basedir* [uid] [name] account  
